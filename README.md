@@ -24,7 +24,6 @@ This is a simple Android weather forecast application built using Kotlin, Jetpac
 - **Architecture:** MVVM (Model-View-ViewModel)
 - **Networking:** Retrofit
 - **Local Storage:** Room Database
-- **Dependency Injection:** (Optional) Hilt (not currently used)
 - **Other Tools:** Coroutine Flows, LiveData, ViewModel, Material 3
 
 ---
